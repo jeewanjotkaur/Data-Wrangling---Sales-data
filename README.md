@@ -25,7 +25,7 @@ The original dataset contained inconsistencies such as:
 * Inconsistent category labels
 
 * Duplicate entries
-* 
+  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Project Structure**

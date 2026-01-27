@@ -56,10 +56,6 @@ Python 3.x
 
 Pandas – data manipulation and cleaning
 
-NumPy – numerical operations
-
-OpenPyXL / CSV – handling spreadsheet data
-
 Jupyter Notebook – documenting cleaning steps
 
 
@@ -91,7 +87,7 @@ Clone the repository
 
 Navigate to the project folder:
 
-cd DATA wRANGLING - SALES DATA
+cd DATA WRANGLING - SALES DATA
 
 Open the Jupyter notebook:
 

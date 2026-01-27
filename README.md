@@ -42,9 +42,7 @@ The original dataset contained inconsistencies such as:
     ├── notebooks/
     
         └── DataWrangling.ipynb       # Jupyter notebook with wrangling steps
-    
-    
-    ├── .gitignore                    # Files/folders to ignore in Git
+
     
     └── README.md                     # Project documentation
 

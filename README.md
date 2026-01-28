@@ -42,9 +42,7 @@ The original dataset contained inconsistencies such as:
     ├── notebooks/
     
         └── DataWrangling.ipynb       # Jupyter notebook with wrangling steps
-    
-    
-    ├── .gitignore                    # Files/folders to ignore in Git
+
     
     └── README.md                     # Project documentation
 
@@ -57,10 +55,6 @@ The original dataset contained inconsistencies such as:
 Python 3.x
 
 Pandas – data manipulation and cleaning
-
-NumPy – numerical operations
-
-OpenPyXL / CSV – handling spreadsheet data
 
 Jupyter Notebook – documenting cleaning steps
 
@@ -93,7 +87,7 @@ Clone the repository
 
 Navigate to the project folder:
 
-cd DATA wRANGLING - SALES DATA
+cd DATA WRANGLING - SALES DATA
 
 Open the Jupyter notebook:
 
